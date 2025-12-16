@@ -2,6 +2,8 @@
 
 # Hello everybody!
 
+# Welcome
+
 Hello and welcome to the Cloud Engineer Bootcamp Git learning repository! This is a hands-on space where you'll practice essential Git workflows and collaboration skills.
 
 ## What is This Repository?
